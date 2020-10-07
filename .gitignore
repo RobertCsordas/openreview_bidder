@@ -1,0 +1,5 @@
+*.zip
+*.json
+*.txt
+.idea
+__pycache__
